@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Roshdy</h1>
 <h3 align="center">A backend software engineer</h3>
 
 - 📫 How to reach me **developerroshdy@gmail.com**
@@ -13,6 +13,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poshdy&show_icons=true&locale=en&layout=compact" alt="poshdy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poshdy&show_icons=true&locale=en" alt="poshdy" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poshdy&" alt="poshdy" /></p>
